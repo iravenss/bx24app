@@ -1,0 +1,8 @@
+{
+ "object1": {
+    "name": "Объект 1",
+    "coords": "53,53",
+    "user_id": 3
+  },
+  "string": "Hello World"
+}

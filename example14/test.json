@@ -1,0 +1,18 @@
+{
+  "objects":
+ [{
+    "id": 3,
+    "name": "Объект 1",
+    "coords": "53,53",
+    "user_id": 3
+  },
+     {
+       "id": 4,
+      "name": "Объект 2",
+      "coords": "53,53",
+      "user_id": 3
+    }],
+
+
+  "string": "Hello World"
+}
